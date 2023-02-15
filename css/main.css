@@ -97,12 +97,3 @@ body {
 .clock__margin-top {
     margin-top: 50px;
 }
-
-#image_block {
-    text-align: center;
-}
-
-.image_block__clock {
-    display: inline-block;
-    width: 200px;
-}
